@@ -18,6 +18,7 @@ O objetivo do projeto é aprender manipulação de elementos do DOM, eventos e l
 - Permite **incrementar** o contador com o botão `INCREMENT`.
 - Permite **salvar** os valores anteriores clicando em `SAVE`, mostrando o histórico de entradas.
 - Reinicia o contador após cada salvamento.
+- Possui um botão `RESET` que zera o contador e apaga o histórico de entradas.
 
 ---
 
@@ -28,7 +29,4 @@ O objetivo do projeto é aprender manipulação de elementos do DOM, eventos e l
 - **JavaScript** — manipulação de DOM e lógica do contador  
 - **Google Fonts** — tipografia “Playfair Display”
 
----
-
-## 📂 Estrutura de arquivos
 
