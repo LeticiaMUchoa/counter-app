@@ -66,3 +66,13 @@ button {
   transform: scale(1.05);
   transition: 0.2s;
 }
+
+#reset-btn{
+  background: #780000;
+}
+
+#reset-btn:hover{
+  background-color: black;
+  transform: scale(1.05);
+  transition: 0.2s;
+}
