@@ -8,7 +8,7 @@ O objetivo do projeto é aprender manipulação de elementos do DOM, eventos e l
 
 ## 🖼️ Demonstração
 
-🔗 [Acesse o projeto no Netlify](https://platform-counter.netlify.app)
+🔗 [Acesse o projeto no Vercel](https://counter-app-blush-five.vercel.app/)
 
 ---
 
